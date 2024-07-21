@@ -1,6 +1,6 @@
 ## Olá 👋
 
-### 🔭 Estudante em busca da primeira vaga.
+### 🔭 Estudante em busca da primeira vaga
 ### 💻 Conecte-se comigo no LinkedIn [Matheus Melo](https://www.linkedin.com/in/matheus-melo-48014228a/)
 
 <br />
