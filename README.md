@@ -6,8 +6,6 @@
 
 ## Skills Front-end
 
-<br />
-
 • NextJS <br />
 • ReactJS <br />
 • Typescript <br />
