@@ -8,10 +8,10 @@
 
 <br />
 
-• NextJS
-• ReactJS
-• Typescript
-• Redux
-• TailwindCSS
-• Cypress
-• React Query
+• NextJS <br />
+• ReactJS <br />
+• Typescript <br />
+• Redux <br />
+• TailwindCSS <br />
+• Cypress <br />
+• React Query <br />
