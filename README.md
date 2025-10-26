@@ -1,7 +1,3 @@
-## Olá 👋
-
-<br />
-
 ## Skills Front-end
 
 • NextJS <br />
