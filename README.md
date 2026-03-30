@@ -7,3 +7,5 @@
 • TailwindCSS <br />
 • Cypress <br />
 • React Query <br />
+
+https://www.linkedin.com/in/matheus-melo1/
